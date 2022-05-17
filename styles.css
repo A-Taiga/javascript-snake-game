@@ -1,0 +1,17 @@
+body {
+    background: url(cover2.jpg);
+    background-repeat: no-repeat;
+    background-size: fit;
+}
+.gameBored
+{
+  
+    padding: 3px; 
+    margin: 3px;
+    
+    display: block; 
+    margin: 0 auto;
+    border:1px solid #000000;
+
+
+}
